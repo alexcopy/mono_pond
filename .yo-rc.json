@@ -1,0 +1,43 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "ru.gpsbox.pond",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "6.9.0",
+    "applicationType": "gateway",
+    "baseName": "newpond",
+    "packageName": "ru.gpsbox.pond",
+    "packageFolder": "ru/gpsbox/pond",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "no",
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Memory",
+    "prodDatabaseType": "mysql",
+    "searchEngine": "elasticsearch",
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "MzUxNjViOWYzYWQ3OTg1ZmViODY0Yjk5ZWI5YTBmM2QwMjMyMDYzODU4MTY1MGNkZTE1M2UyYzA2MzE3NzhkNGZhOWMzZmYzYmZiODk2MzY0ZjJhN2UzNDBkNmMyZDdhOTYyZTZlMjMzZGZjMjg1ZTcxYjYyMmYwZjc2OGQ3OWU=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "solar",
+    "clientThemeVariant": "dark",
+    "creationTimestamp": 1591482353906,
+    "testFrameworks": ["gatling"],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": ["en", "ru"],
+    "blueprints": [],
+    "reactive": true
+  }
+}
